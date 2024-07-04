@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css?family=Sofia');
+
+@import url('https://fonts.googleapis.com/css?family=Neucha');
+
+
+.sofia-font {
+    font-family: 'Sofia', cursive;
+}
+
+.neucha-font {
+    font-family: 'Neucha';
+}
+
+.states1 {
+    width: fit-content;
+}
+
+.states2 {
+    width: fit-content;
+}
+
+.cities{
+    size: 50px;
+    background-color: #002D62;  
+    color:  #bcd2ee;
+    font-weight: bolder;
+    font-size: 20px;
+    border-radius: 10px;
+    
+}
+
+.location{
+    margin: 10px;
+}
+
+.icons{
+    width: 50px;  
+    height: 50px; 
+    object-fit: cover; 
+}
+
+.radios {
+
+    width: 15px;
+    height: 15px;
+}
+
+.errorMsg1{
+    color: red;
+}
+body {
+    background-color: #bcd2e9;
+}
+
+h1{   
+    font-family: 'Sofia', cursive;
+    background-color: #002D62; 
+    text-align: center;
+    color: #bcd2ee;
+    border-radius: 10px;
+}
+
+
+fieldset{
+    font-family: 'Neucha';
+    color: #002D62; 
+    border-color: white;
+    border-radius: 10px;
+    border-width: 5px;
+    border-style: double;
+}
+
+label{
+    font-family: 'Neucha';
+    font-style: italic;
+}
+
+table{
+    font-family: 'Neucha';
+    color: #002D62; 
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+
+tr {
+    background-color:  #cfdef1;;
+}
+
+th{
+    font-family: 'Neucha';
+    background-color: #002D62;  
+    color:  #bcd2ee;
+}
+
+
+footer{
+    font-family: 'Neucha';
+    background-color: #002D62; 
+    text-align: center;
+    color: #bcd2ee;
+    border-radius: 10px;
+}
+
+button{
+    background-color: #002D62;
+    color: white;
+    border-radius: 10px;
+    font-family: 'Neucha';
+}
